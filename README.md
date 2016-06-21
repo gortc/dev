@@ -9,3 +9,4 @@ rfc | name  | status | build | description
 [rfc5766](https://tools.ietf.org/html/rfc5766) | turn  | ![status](https://img.shields.io/badge/status-research-lightgrey.svg)  | ![status](https://img.shields.io/badge/build-unknown-lightgrey.svg) | STUN + Tunnels
 [rfc5245](https://tools.ietf.org/html/rfc5245) | ice  | ![status](https://img.shields.io/badge/status-research-lightgrey.svg)  | ![status](https://img.shields.io/badge/build-unknown-lightgrey.svg) | Uses STUN and TURN for TRAVERSAL 
 
+So far **4607** SLOC written and **200+** RFC pages implemented as go code.
