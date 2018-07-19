@@ -15,7 +15,7 @@ German company not related to project.
 * Make them useful (extensible and flexible) for enterprise while staying open
 
 ## Principles
-* Bottom-up development with feedback loop
+* Mostly bottom-up development with feedback loop
 * High and rigorous standards for core packages:
     * Minimum (none is ideal) 3-rd party deps
     * Greater than 90% test coverage
