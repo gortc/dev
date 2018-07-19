@@ -10,9 +10,10 @@ German company not related to project.
 
 ## Goals
 * Create tools and libraries for NAT traversal and ICE
-* Make them safe, reliable, fast, stable and simple to use
+* Make them safe, reliable, fast, stable and simple to use and extend
 * Make them useful (extensible and flexible) for enterprise while staying open source
 * Don't be hype and PR driven, popularity and stars count are not appropriate metrics
+* Use RFC wording whenever possible but not at the expense of idiomaticity
 
 ## Principles
 * High and rigorous standards for core packages:
