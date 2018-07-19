@@ -5,7 +5,7 @@ principles, etc. Feel free to ask anything via issues.
 
 ## Original author
 I'm Aleksandr Razumov ([ernado](https://github.com/ernado)), full time go developer with commercial experience
-starting from 2014 (and non-go from 2011) and currently working in
+starting from 2014 (and non-go from 2011) and currently working at
 German company not related to project.
 
 ## Goals
