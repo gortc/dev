@@ -28,6 +28,7 @@ German company not related to project.
 * Decoupling and abstraction layers
 * Conscious architecture design with clear goals
 * Follow [effective go](https://golang.org/doc/effective_go.html) and [CodeReviewComments](https://github.com/golang/go/wiki/CodeReviewComments)
+* Follow [semver](https://semver.org/) with `v` prefix for tags, like `v1.2.0`
 
 ## Contributors
 Thanks so much for contribution to the gortc project:
