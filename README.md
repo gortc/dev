@@ -12,7 +12,7 @@ German company not related to project.
 * Create tools and libraries for NAT traversal and ICE
 * Make them safe, reliable, fast, stable and simple to use
 * Don't be hype and PR driven
-* Make them useful for enterprise while staying open
+* Make them useful (extensible and flexible) for enterprise while staying open
 
 ## Principles
 * Bottom-up development with feedback loop
