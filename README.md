@@ -4,9 +4,9 @@ Hi, here you can find development info about [gortc](https://gortc.io) project, 
 principles, etc. Feel free to ask anything via issues.
 
 ## Original author
-I am Aleksandr Razumov, full time go developer with commercial experience
+I'm Aleksandr Razumov, full time go developer with commercial experience
 starting from 2014 (and non-go from 2011) and currently working in
-German company not related to that project.
+German company not related to project.
 
 ## Goals
 * Create tools and libraries for NAT traversal and ICE
