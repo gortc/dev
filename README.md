@@ -21,7 +21,7 @@ German company not related to project.
     * Benchmarks to track performance
     * Zero-allocation in hot paths
     * Tests for zero allocation
-    * Fuzz-testing
+    * [Fuzz](https://en.wikipedia.org/wiki/Fuzzing)-testing
     * Integration (functional, e2e) tests
     * Static checks (linters)
 * Mostly bottom-up development with feedback loop
