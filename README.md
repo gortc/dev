@@ -13,7 +13,6 @@ German company not related to project.
 * Make them safe, reliable, fast, stable and simple to use and extend
 * Make them useful (extensible and flexible) for enterprise while staying open source
 * Don't be hype and PR driven, popularity and stars count are not appropriate metrics
-* Use RFC wording whenever possible but not at the expense of idiomaticity
 
 ## Principles
 * High and rigorous standards for core packages:
@@ -30,6 +29,7 @@ German company not related to project.
 * Conscious architecture design with clear goals
 * Follow [effective go](https://golang.org/doc/effective_go.html) and [CodeReviewComments](https://github.com/golang/go/wiki/CodeReviewComments)
 * Follow [semver](https://semver.org/) with `v` prefix for tags, like `v1.2.0`
+* Use RFC wording whenever possible but not at the expense of idiomaticity
 
 ## Contributors
 Thanks so much for contribution to the gortc project:
