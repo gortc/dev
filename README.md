@@ -1,6 +1,6 @@
 # dev
 
-Hi, here you can found development info about *gortc* project, it's goals,
+Hi, here you can find development info about (gortc)[https://gortc.io] project, it's goals,
 principles, etc. Feel free to ask anything via issues.
 
 ## Original author
