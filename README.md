@@ -30,7 +30,7 @@ German company not related to that project.
 * Follow [effective go](https://golang.org/doc/effective_go.html) and [CodeReviewComments](https://github.com/golang/go/wiki/CodeReviewComments)
 
 ## Contributors
-Thanks so much for contribution to the development:
+Thanks so much for contribution to the gortc project:
 * [backkem](https://github.com/backkem)
 
 Current development status for tech stack for NAT traversal and WebRTC interoperation in golang.
