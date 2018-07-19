@@ -15,7 +15,6 @@ German company not related to project.
 * Make them useful (extensible and flexible) for enterprise while staying open
 
 ## Principles
-* Mostly bottom-up development with feedback loop
 * High and rigorous standards for core packages:
     * Minimum (none is ideal) 3-rd party deps
     * Greater than 90% test coverage
@@ -25,7 +24,8 @@ German company not related to project.
     * Fuzz-testing
     * Integration (functional, e2e) tests
     * Static checks (linters)
-* Decoupling and abstraction layers
+* Mostly bottom-up development with feedback loop
+* Decoupling and abstraction layer isolation
 * Conscious architecture design with clear goals
 * Follow [effective go](https://golang.org/doc/effective_go.html) and [CodeReviewComments](https://github.com/golang/go/wiki/CodeReviewComments)
 * Follow [semver](https://semver.org/) with `v` prefix for tags, like `v1.2.0`
