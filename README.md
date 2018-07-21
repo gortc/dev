@@ -30,6 +30,8 @@ German company not related to project.
 * Follow [effective go](https://golang.org/doc/effective_go.html) and [CodeReviewComments](https://github.com/golang/go/wiki/CodeReviewComments)
 * Follow [semver](https://semver.org/) with `v` prefix for tags, like `v1.2.0`
 * Use RFC wording whenever possible but not at the expense of idiomaticity
+* Manage dependencies with [dep](https://github.com/golang/dep) until vgo stabilizes and will allow
+reproducible builds without net connectivity
 
 ## Contributors
 Thanks so much for contribution to the gortc project:
