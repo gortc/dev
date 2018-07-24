@@ -24,6 +24,8 @@ German company not related to project.
     * [Fuzz](https://en.wikipedia.org/wiki/Fuzzing)-testing
     * Integration (functional, e2e) tests
     * Static checks (linters)
+    * Test with `-race` flag
+    * Run ci tests with `go tip` daily
 * Mostly bottom-up development with feedback loop
 * Decoupling and abstraction layer isolation
 * Conscious architecture design with clear goals
