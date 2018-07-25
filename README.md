@@ -26,6 +26,7 @@ German company not related to project.
     * Static checks (linters)
     * Test with `-race` flag
     * Run ci tests with `go tip` daily
+    * API backward compatibility [check](github.com/gortc/api)
 * Mostly bottom-up development with feedback loop
 * Decoupling and abstraction layer isolation
 * Conscious architecture design with clear goals
