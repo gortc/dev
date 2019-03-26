@@ -52,4 +52,4 @@ rfc | name  | status | build | description
 [RFC4960](https://tools.ietf.org/html/rfc4960) | [SCTP](http://github.com/gortc/sctp)  | ![status](https://img.shields.io/badge/status-research-orange.svg)  | [![Build Status](https://travis-ci.org/gortc/sctp.svg)](https://travis-ci.org/gortc/sctp) | Stream Control Transmission Protocol
 [WebRTC](https://tools.ietf.org/html/draft-ietf-rtcweb-overview) | [RTC](http://github.com/gortc/rtc)  | ![status](https://img.shields.io/badge/status-research-orange.svg)  | [![Build Status](https://travis-ci.org/gortc/rtc.svg)](https://travis-ci.org/gortc/rtc) | WebRTC
 
-So far **25K** SLOC and **230+** RFC pages implemented as go code.
+So far **35K** SLOC and **230+** RFC pages implemented as go code.
